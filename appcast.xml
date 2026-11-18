@@ -3,6 +3,14 @@
     <channel>
         <title>MacLeo Dymo BetterDriver</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 18 Nov 2026 21:34:47 +0100</pubDate>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Leololololo/betterdriver-dymo-releases/releases/download/v0.1.1/MacLeo-Dymo-BetterDriver-0.1.1.zip" length="3766636" type="application/octet-stream" sparkle:edSignature="fcERDi/xlV5Ms9VtWPLgBatVw0RsE/QNTrlS7zWO89PuBzYcMGOczPIYiMfmXeeDO+e3gj2ww04ccSXWtEfIDA=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Wed, 18 Nov 2026 20:07:42 +0100</pubDate>
             <sparkle:version>0.1.0</sparkle:version>
