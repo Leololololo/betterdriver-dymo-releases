@@ -3,6 +3,14 @@
     <channel>
         <title>MacLeo Dymo BetterDriver</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Mon, 23 Nov 2026 10:26:01 +0100</pubDate>
+            <sparkle:version>0.1.4</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Leololololo/betterdriver-dymo-releases/releases/download/v0.1.4/MacLeo-Dymo-BetterDriver-0.1.4.zip" length="3770465" type="application/octet-stream" sparkle:edSignature="kNjbgv+sib4L94dsx0Rh6gFlYAk62Gt5HrrhxTny2/9TwxTBpU2s0DlMiSnSDHLeVqbo6/1fFZFXkp/eQG5fAw=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Wed, 18 Nov 2026 22:19:11 +0100</pubDate>
             <sparkle:version>0.1.3</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Leololololo/betterdriver-dymo-releases/releases/download/v0.1.2/MacLeo-Dymo-BetterDriver-0.1.2.zip" length="3773133" type="application/octet-stream" sparkle:edSignature="oMyVOyjNETUScbYtsggpIdmxs9BSUO7brpFbvUsUOdR92TgmEw6ADA+0lSczxpOBmiB8ZG76VsKyVrIaq3JuBA=="/>
-        </item>
-        <item>
-            <title>0.1.1</title>
-            <pubDate>Wed, 18 Nov 2026 21:34:47 +0100</pubDate>
-            <sparkle:version>0.1.1</sparkle:version>
-            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Leololololo/betterdriver-dymo-releases/releases/download/v0.1.1/MacLeo-Dymo-BetterDriver-0.1.1.zip" length="3766636" type="application/octet-stream" sparkle:edSignature="fcERDi/xlV5Ms9VtWPLgBatVw0RsE/QNTrlS7zWO89PuBzYcMGOczPIYiMfmXeeDO+e3gj2ww04ccSXWtEfIDA=="/>
         </item>
     </channel>
 </rss>
